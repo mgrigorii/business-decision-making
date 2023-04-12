@@ -8,8 +8,8 @@
 We will see the difference between two frameworks that usually used for prioritization of hypotheses. In other words we will do prioritize a list of different hypotheses that we should work with.
 
 We will use:
-the ICE framework
-the RICE framework
+- the ICE framework
+- the RICE framework
 
 
 ## The part two 
