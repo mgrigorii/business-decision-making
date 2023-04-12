@@ -23,26 +23,26 @@ We going to understand what to do with the Test?
 
 On the way to the answer will check the data and answer on the list of business questions with python:
 
-1. How to build a graph of cumulative revenue by group?
-2. How to build a graph of the cumulative average check by groups?
-How to plot the relative change in the cumulative average check of group B to group A?
-How to plot the cumulative average number of orders per visitor by group?
-How to plot the relative change in the cumulative average number of orders per visitor of group B to group A?
-How to build a scatter plot of the number of orders by users?
-How to calculate the 95th and 99th percentiles of orders per user?
-How to build a scatter plot of order values?
-How to calculate the 95th and 99th order value percentiles and choose a border to detect abnormal orders?
-How to calculate the statistical significance of differences in the average number of orders per visitor between groups on raw data?
-How to calculate the statistical significance of differences in the average check of an order between groups based on "raw" data?
-How to calculate the statistical significance of differences in the average number of orders per visitor between groups on "cleaned" data?
-How to calculate the statistical significance of differences in the average check of an order between groups using "cleaned" data?
+- How to build a graph of cumulative revenue by group?
+- How to build a graph of the cumulative average check by groups?
+- How to plot the relative change in the cumulative average check of group B to group A?
+- How to plot the cumulative average number of orders per visitor by group?
+- How to plot the relative change in the cumulative average number of orders per visitor of group B to group A?
+- How to build a scatter plot of the number of orders by users?
+- How to calculate the 95th and 99th percentiles of orders per user?
+- How to build a scatter plot of order values?
+- How to calculate the 95th and 99th order value percentiles and choose a border to detect abnormal orders?
+- How to calculate the statistical significance of differences in the average number of orders per visitor between groups on raw data?
+- How to calculate the statistical significance of differences in the average check of an order between groups based on "raw" data?
+- How to calculate the statistical significance of differences in the average number of orders per visitor between groups on "cleaned" data?
+- How to calculate the statistical significance of differences in the average check of an order between groups using "cleaned" data?
 
 In that project I will use python libraries:
 - pandas
 - pandas.plotting
-  scipy.stats
-  datetime
-  numpy
-  matplotlib.pyplot
-  warnings
+- scipy.stats
+- datetime
+- numpy
+- matplotlib.pyplot
+- warnings
 
