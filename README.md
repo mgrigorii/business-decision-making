@@ -23,8 +23,8 @@ We going to understand what to do with the Test?
 
 On the way to the answer will check the data and answer on the list of business questions with python:
 
-1 How to build a graph of cumulative revenue by group?
-2 How to build a graph of the cumulative average check by groups?
+1. How to build a graph of cumulative revenue by group?
+2. How to build a graph of the cumulative average check by groups?
 How to plot the relative change in the cumulative average check of group B to group A?
 How to plot the cumulative average number of orders per visitor by group?
 How to plot the relative change in the cumulative average number of orders per visitor of group B to group A?
@@ -38,8 +38,8 @@ How to calculate the statistical significance of differences in the average numb
 How to calculate the statistical significance of differences in the average check of an order between groups using "cleaned" data?
 
 In that project I will use python libraries:
--pandas
--pandas.plotting
+- pandas
+- pandas.plotting
   scipy.stats
   datetime
   numpy
